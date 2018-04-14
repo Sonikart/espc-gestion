@@ -55,7 +55,7 @@
                     <div class="col-xs-6 col-sm-4 col-lg-3">
                         <p class="h2 font-w400 push-5">ES-PC Inf</p>
                         <address>
-                            25 rue Gougeard<br>
+                            56 rue Poulatre<br>
                             Le Mans<br>
                             Sarthe, 72 000<br>
                             <i class="si si-call-end"></i> +33673646126
@@ -67,7 +67,7 @@
                     <div class="col-xs-6 col-sm-4 col-sm-offset-4 col-lg-3 col-lg-offset-6 text-right">
                         <p class="h4 font-w400 push-5">Lemaire Severine</p>
                         <address>
-                            Kérifloch, St Fiacre<br>
+                            29 rue des Orangers<br>
                             Crozon<br>
                             Bretagne, 29160<br>
                             <i class="si si-call-end"></i> +33622773013
