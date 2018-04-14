@@ -1,0 +1,21 @@
+.notification{
+    position: fixed;
+    display: none;
+    z-index: 1000 !important;
+    margin-top:10px;
+    height: 50px;
+    width: 35%;
+    bottom: 15px;
+    right: 15px;
+    color: white;
+    line-height: 50px;
+    text-align: center;
+}
+
+.success{
+    background-color: green;
+}
+
+.danger{
+    background-color: red;
+}
