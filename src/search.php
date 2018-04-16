@@ -23,5 +23,5 @@ if(isset($_GET['q']) AND !empty($_GET['q'])) {
    <?php } ?>
    </ul>
 <?php } else { ?>
-Aucun résultat pour: <?= $q ?>....
+Aucun résultat pour: <?= $q ?>...
 <?php } ?>
